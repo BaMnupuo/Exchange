@@ -60,7 +60,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ExchangeCases\CurrencyToIsBaseCurrencyCaseTests - Copy.cs" />
+    <Compile Include="ExchangeCases\CurrencyFromAndCurrencyToAreNotBaseCaseTests.cs" />
     <Compile Include="ExchangeCases\CurrencyToIsBaseCurrencyCaseTests.cs" />
     <Compile Include="ExchangeCases\CurrencyFromIsBaseCurrencyCaseTests.cs" />
     <Compile Include="ExchangeCases\CurrencyFromCurrencyToTheSameCaseTests.cs" />
